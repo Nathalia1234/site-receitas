@@ -1,7 +1,6 @@
 # 🍴 Website de Receitas  
 
-Projeto desenvolvido como parte da **Tarefa 1.2** da disciplina de **Desenvolvimento Full Stack**.  
-O objetivo foi criar um **site de receitas simples e navegável** utilizando apenas **HTML5** e **CSS3**, aplicando conceitos básicos de estruturação, listas, links e estilização.  
+O objetivo do projeto foi criar um **site de receitas simples e navegável** utilizando apenas **HTML5** e **CSS3**, aplicando conceitos básicos de estruturação, listas, links e estilização.  
 
 ---
 
